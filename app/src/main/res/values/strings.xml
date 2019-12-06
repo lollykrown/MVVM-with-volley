@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Movies Architecture</string>
+    <string name="action_delete">Delete</string>
+    <string name="delete_dialog_msg">Are you sure?</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+</resources>
